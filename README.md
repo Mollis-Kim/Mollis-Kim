@@ -50,6 +50,6 @@ Organized by the Ministry of Science and ICT, South Korea
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Mollis-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himuchik)](https://solved.ac/himuchik/)
 ---
